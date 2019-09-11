@@ -460,7 +460,7 @@ a.btn-connect:hover {
   margin: auto;
   border: none;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 26pt;
 }
 
 @media only screen and (min-width: 980px) and (max-width: 1024px){
